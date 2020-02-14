@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
-	<title>Jinquan Travelling Goods</title>
+	<title><?php bloginfo('name'); ?> | <?php is_front_page() ? bloginfo('description') : wp_title(''); ?></title>
 	<!--/tags -->
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,6 +21,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="agileits_top_menu">
 		<div class="w3l_header_left">
 				<ul>
+				<?php if(!is_user_logged_in()): ?>
+					<li><span class="fa fa-user" aria-hidden="true"></span> <a href="<?php echo wp_login_url(); ?>">Đăng nhập hệ thống</a></li>
+				<?php endif; ?>	
 					<li><span class="fa fa-phone" aria-hidden="true"></span> +456 123 7890</li>
 					<li><span class="fa fa-envelope-o" aria-hidden="true"></span> <a href="mailto:info@example.com">info@example.com</a></li>
 				</ul>
@@ -55,8 +58,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="container">
 					<div class="carousel-caption">
 				
-						<h3>Chào mừng khách hàng đến với công ty <span>Jinquan Travelling Goods VN</span></h3>
-						<p>Any successful career starts with good Industrial. Together with us you will have deeper knowledge of the subjects</p>
+						<h3>Chào mừng khách hàng đến với công ty <span>CÔNG TY TNHH MỘT THÀNH VIÊN DỤNG CỤ DU LỊCH JINQUAN VIỆT NAM</span></h3>
+						<p>Jinquan là một trong những công ty thiết bị ngoài trời hàng đầu của Trung Quốc.</p>
 						<div class="agileits-button top_ban_agile">
 							<a class="btn btn-primary btn-lg" href="<?php echo get_permalink( get_page_by_path( 'gioi-thieu' ) ); ?>">Xem Giới thiệu</a>
 						</div>

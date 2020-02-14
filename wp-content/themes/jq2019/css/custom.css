@@ -419,12 +419,12 @@ li > a:only-child:after {
 }
 /*-- //social-icons --*/
 .header-1 {
-    background: url(../images/banner1.jpg) 0px 0px no-repeat;
+    background: url(../images/jq-bg.jpg) center no-repeat;
     background-size: cover;
     min-height: 380px;
 }
 .banner {
-background: url(../images/banner1.jpg);
+background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/jq-bg.jpg);
     position: relative;
     background-size: cover;
     height: 100%;
@@ -1029,6 +1029,10 @@ a.wthree-.about-link {
 
 .agileits-about-grid3 {
     border: 1px solid #000;
+}
+.agileits-about-grid4 {
+    border: 1px solid #000;
+	border-left:none;
 }
 .agile-about{
 	padding:5em 0 0;

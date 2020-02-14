@@ -2,11 +2,9 @@
 		<!-- about -->
 	<div class="agile-about w3ls-section text-center" id="about">
 		<div class="container">
-		<h3 class="heading-agileinfo">Chào mừng đến với công ty Jinquan Viet Nam<span>That performs mechanical work using </span></h3>
+		<h3 class="heading-agileinfo">Chào mừng đến với công ty Jinquan Viet Nam<span>Công ty thiết bị ngoài trời hàng đầu.</span></h3>
 			<div class="agileits-about-grid">
-				<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, sunt in culpa qui officia
-					deserunt mollit anim id est laboth. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-					fugiat nulla pariatur sunt in culpa qui .</p>
+				<p>Từ năm 1998, chúng tôi tại Công ty Hàng hóa Du lịch Dương Châu Jinquan chuyên sản xuất thiết bị cho các hoạt động ngoài trời.</p>
 			</div>
 		</div>
 	</div>
@@ -16,34 +14,36 @@
 		<div class="container">
 			<div class="row w3-flex">
 			<div class="col-md-4 ab1 agileits-about-grid1">
-				<span class="fa fa-industry" aria-hidden="true"></span>
-				<h4 class="agileinfo-head">Steel Work</h4>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
+				<span class="fa fa-flag" aria-hidden="true"></span>
+				<h4 class="agileinfo-head">Lều trại</h4>
+				<h5>Lorem Ipsum</h5>
+				<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
+				<h5>Lorem Ipsum</h5>
+				<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 			</div>
 			<div class="col-md-4 ab1 agileits-about-grid2">
-				<span class="fa fa-arrows  wthree-title-list" aria-hidden="true"></span>
-				<h4 class="agileinfo-head">New Ideas</h4>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
+				<span class="fa fa-male  wthree-title-list" aria-hidden="true"></span>
+				<h4 class="agileinfo-head">Áo Quần</h4>
+				<h5>Lorem Ipsum</h5>
+				<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
+				<h5>Lorem Ipsum</h5>
+				<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 			</div>
 			<div class="col-md-4 ab1 agileits-about-grid3">
-				<span class="fa fa-bar-chart  wthree-title-list" aria-hidden="true"></span>
-				<h4 class="agileinfo-head">Innovation</h4>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
-				<h5>Sunt in culpa</h5>
-				<p>Ncididunt ut labore et enim ad minim.</p>
+				<span class="fa fa-shopping-bag  wthree-title-list" aria-hidden="true"></span>
+				<h4 class="agileinfo-head">Balo</h4>
+				<h5>Lorem Ipsum</h5>
+				<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
+				<h5>Lorem Ipsum</h5>
+				<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
+			</div>
+			<div class="col-md-4 ab1 agileits-about-grid4">
+				<span class="fa fa-tags  wthree-title-list" aria-hidden="true"></span>
+				<h4 class="agileinfo-head">Túi Ngủ</h4>
+				<h5>Lorem Ipsum</h5>
+				<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
+				<h5>Lorem Ipsum</h5>
+				<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 			</div>
 			<div class="clearfix"></div>
 			</div>
@@ -53,30 +53,30 @@
 <!-- stats -->
 	<div class="stats">
 		<div class="container">
-		<h3 class="heading-agileinfo">Our Stats<span class="ttt">That performs mechanical work using  </span></h3>
+		<h3 class="heading-agileinfo">Thống kê nhân sự<span class="ttt">Công Ty TNHH Một Thành Viên Dụng Cụ Du Lịch Jinquan Việt Nam</span></h3>
 			<div class="row">
 			<div class="col-md-3 w3layouts_stats_left w3_counter_grid">
 				<span class="fa fa-graduation-cap" aria-hidden="true"></span>
-				<h3>Supervisors</h3>
-				<p class="counter">45</p>
+				<h3>Nhân sự cấp cao</h3>
+				<p class="counter">12</p>
 				
 			</div>
 			<div class="col-md-3 w3layouts_stats_left w3_counter_grid1">
 				<span class="fa fa-user" aria-hidden="true"></span>
-				<h3>Certified Staff</h3>
-				<p class="counter">165</p>
+				<h3>Nhân viên</h3>
+				<p class="counter">34</p>
 				
 			</div>
 			<div class="col-md-3 w3layouts_stats_left w3_counter_grid2">
 				<span class="fa fa-users" aria-hidden="true"></span>
-				<h3>Workers</h3>
-				<p class="counter">563</p>
+				<h3>Công nhân</h3>
+				<p class="counter">567</p>
 				
 			</div>
 			<div class="col-md-3 w3layouts_stats_left w3_counter_grid3">
 				<span class="fa fa-trophy" aria-hidden="true"></span>
-				<h3>Awards</h3>
-				<p class="counter">245</p>
+				<h3>Dây chuyền</h3>
+				<p class="counter">89</p>
 				
 			</div>
 			</div>
@@ -85,55 +85,37 @@
 	<!-- //stats -->
 	<!-- services -->
 <div class="services">
-		<h3 class="heading-agileinfo">What we do<span>That performs mechanical work using  </span></h3>
+		<h3 class="heading-agileinfo">Chúng tôi làm gì<span>Công Ty TNHH Một Thành Viên Dụng Cụ Du Lịch Jinquan Việt Nam</span></h3>
 	<div class="container">
 		<div class="row services-top-grids">
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="grid1">
-					<span class="fa fa-fire"></span>
-					<h4>Commercial Fuel</h4>
-					<p>Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste natus error sit voluptatem </p>
+					<span class="fa fa-flag"></span>
+					<h4>Lều Trại</h4>
+					<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="grid1">
-					<span class="fa fa-tint"></span>
-					<h4>Oil Revolution</h4>
-					<p>Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste natus error sit voluptatem </p>
+					<span class="fa fa-tags"></span>
+					<h4>Túi Ngủ</h4>
+					<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="grid1">
-					<span class="fa fa-flask"></span>
-					<h4>Shell Chemicals</h4>
-					<p>Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste natus error sit voluptatem </p>
+					<span class="fa fa-shopping-bag"></span>
+					<h4>Balo</h4>
+					<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 				</div>
 			</div>
-			
-		</div>
-		<div class="row services-bottom-grids">
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="grid1">
-					<span class="fa fa-lightbulb-o"></span>
-					<h4>Power & Energy</h4>
-					<p>Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste natus error sit voluptatem </p>
+					<span class="fa fa-male"></span>
+					<h4>Áo Quần</h4>
+					<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 				</div>
 			</div>
-			<div class="col-md-4">
-				<div class="grid1">
-					<span class="fa fa-cogs"></span>
-					<h4>Quality Material</h4>
-					<p>Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste natus error sit voluptatem </p>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="grid1">
-					<span class="fa fa-industry"></span>
-					<h4>Industry Chemicals</h4>
-					<p>Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste natus error sit voluptatem </p>
-				</div>
-			</div>
-			
 		</div>
 	</div>
 </div>
@@ -142,13 +124,13 @@
 	<div class="feedback section-w3ls about-w3ls" id="testimonials">
 		<div class="feedback-agileinfo">
 			<div class="container">
-				<h3 class="heading-agileinfo">Testimonials<span class="ttt">That performs mechanical work using  </span></h3>
+				<h3 class="heading-agileinfo">Đánh giá về công ty<span class="ttt">Công Ty TNHH Một Thành Viên Dụng Cụ Du Lịch Jinquan Việt Nam</span></h3>
 				<div class="agileits-feedback-grids">
 					<div class="row owl-carousel owl-theme">
 						<div class="col-md-4 item">
 							<div class="feedback-info">
 								<div class="feedback-top">
-									<p> Sed semper leo metus, a lacinia eros semper at. Etiam sodales orci sit amet vehicula pellentesque. </p>
+									<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 								</div>
 								<div class="feedback-grids">
 									<div class="feedback-img">
@@ -165,7 +147,7 @@
 						<div class="col-md-4 item">
 							<div class="feedback-info">
 								<div class="feedback-top">
-									<p> Sed semper leo metus, a lacinia eros semper at. Etiam sodales orci sit amet vehicula pellentesque. </p>
+									<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 								</div>
 								<div class="feedback-grids">
 									<div class="feedback-img">
@@ -182,7 +164,7 @@
 						<div class="col-md-4 item">
 							<div class="feedback-info">
 								<div class="feedback-top">
-									<p> Sed semper leo metus, a lacinia eros semper at. Etiam sodales orci sit amet vehicula pellentesque. </p>
+									<p>Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn.</p>
 								</div>
 								<div class="feedback-grids">
 									<div class="feedback-img">
@@ -205,7 +187,7 @@
 <!-- news -->
 	<div class="news">
 		<div class="container">  
-				<h2 class="heading-agileinfo">News & Events<span>That performs mechanical work using </span></h2>
+				<h2 class="heading-agileinfo">Tin Tức &amp; Hoạt động<span>Công Ty TNHH Một Thành Viên Dụng Cụ Du Lịch Jinquan Việt Nam</span></h2>
 			<div class="news-agileinfo"> 
 				<div class="news-w3row"> 
 					<div class="row wthree-news-grids">
