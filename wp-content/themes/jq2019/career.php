@@ -1,7 +1,6 @@
 <?php /* Template Name: Tuyển dụng */ ?>
 <?php get_header(); ?>
-	<div class="header-1">
-		</div>
+	<div class="header-1"></div>
 	<!-- //header -->
 	<!-- services -->
 	<div class="banner-bottom">
