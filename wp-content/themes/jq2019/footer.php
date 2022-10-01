@@ -40,7 +40,7 @@
 	<div class="footer_w3ls">
 		<div class="container">
 			<div class="footer_bottom1">
-				<p>&copy <?php echo date('Y'); ?> Jinquan Việt Nam</p>
+				<p>&copy 2019 - <?php echo date('Y'); ?> Jinquan Việt Nam</p>
 			</div>
 		</div>
 	</div>
